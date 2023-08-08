@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Smartsantosh1928/Smartsantosh1928** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -50,5 +48,3 @@ Here are some ideas to get you started:
 <p><a href="https://www.buymeacoffee.com/smartsantosh1928"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="smartsantosh1928" /></a></p><br><br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=smartsantosh1928&show_icons=true&locale=en&layout=compact" alt="smartsantosh1928" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smartsantosh1928&" alt="smartsantosh1928" /></p>
